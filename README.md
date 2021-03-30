@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Karan Saxena
 - 👀 Interested in Web development including HTML,CSS,Javascript,Media query and Responsive Developments
-- 🌱 Shifting my focus on Front end technologies
+- 🌱 My focus on Front end technologies
 - 📫 Reach out me @+91-8586880865 and email id :karansaxena0501@gmail.com
